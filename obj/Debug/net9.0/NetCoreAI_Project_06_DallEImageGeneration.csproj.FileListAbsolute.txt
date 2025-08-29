@@ -1,0 +1,17 @@
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.exe
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.deps.json
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.runtimeconfig.json
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.pdb
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.AssemblyInfo.cs
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreA.69BC41A1.Up2Date
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\refint\NetCoreAI_Project_06_DallEImageGeneration.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.pdb
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI_Project_06_DallEImageGeneration.genruntimeconfig.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_06_DallEImageGeneration\obj\Debug\net9.0\ref\NetCoreAI_Project_06_DallEImageGeneration.dll
